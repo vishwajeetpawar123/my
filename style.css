@@ -1,0 +1,58 @@
+h1{
+    color:rgb(0, 253, 240)
+    
+}
+
+ 
+
+.header{
+
+    background-image:url("abc.jpg");
+    display:flex;
+    justify-content: space-between;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+
+.grid{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    background-image:url("back.jpg");
+    color:aliceblue;
+
+  
+
+}
+
+.footer{
+   display: flex;
+   justify-content: flex-end;
+   background-image: url("abc.jpg");
+}
+
+
+h2{
+    color:rgba(255, 166, 0, 0.795);
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
+
+.item{
+    border:solid;
+    margin:20px;
+    background-image: url("abc.jpg");
+}
+
+
+.menu{
+    display:flex;
+    color:antiquewhite;
+    justify-content: flex-end;
+}
+
+
+
+.black{
+    background-image: url("abc.jpg");
+}
